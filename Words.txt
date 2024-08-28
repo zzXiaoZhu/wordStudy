@@ -1,0 +1,170 @@
+a balanced diet|均衡饮食|False
+a bit|有点；一点|False
+a bit of|小量|False
+a crowd of|一群|False
+a long time ago|很早以前|False
+a packet of|一袋|False
+a series of|一系列|False
+ability|n. 才能；能力|False
+able|adj. 能；能够|False
+(be) able to|能够|False
+above all|最重要的是；尤其是|False
+abroad|adv. 在国外；到国外|False
+accept|v. 接受(建议、邀请等)|False
+accident|n. (交通)事故|False
+according to|prep. 据(……所说)|False
+accuse|v.控告；控诉|False
+(be) accused of ...|被控告……；被指责……|False
+achieve|v. （凭长期努力）达到（某目标、地位、标准）|False
+achievement|n. 成就；成绩|False
+across|prep. 在……对面；在……对过|False
+act|v. 扮演(戏剧、电影中的角色)|False
+act as|充当|False
+act out|将……表演出来|False
+action|n. (故事、戏剧等中的)情节|False
+actor|n. 演员|False
+actually|adv. 事实上|False
+add|v. 增加；添加|False
+add ... to ...|把……加入……|False
+address|n. 地址|False
+admit|v. (常指勉强)承认|False
+adult|n. 成年动物|False
+advantage|n. 优势|False
+adventure|n. 冒险；冒险经历|False
+advertisement|n. 广告|False
+advice|n. 建议|False
+advise|v. 建议|False
+afford|v. 买得起|False
+Africa|n. 非洲|False
+after a while|过了一会儿|False
+after dark|天黑后；黄昏后|False
+against|prep. 反对|False
+age|n. 年龄|False
+ago|adv. 以前|False
+agree|v. 同意|False
+agree with|同意；赞成|False
+agreement|n. 同意；应允|False
+ahead of|prep. 领先|False
+air conditioner|空调|False
+airport|n. 机场|False
+album|n. 影集|False
+alien|n. 外星人|False
+alive|adj. 活着；在世|False
+all day and all night|夜以继日|False
+all over|遍及|False
+all the time|(在一段时间内) 一直；始终|False
+all the way|一路上；自始至终|False
+allow|v. 允许进入（或出去、通过）|False
+alone|adv. 独自|False
+aloud|adv. 已经；早已|False
+already|adv. 已经；早已|False
+although|conj. 虽然；尽管|False
+amazing|adj.令人大为惊奇的|False
+America|n. 美洲|False
+American|adj. 美洲的|False
+among|prep. 在（其）中|False
+amount|n. 数量；数额|False
+ancient|adj. 古代的|False
+and so on|……等等（举例，多用于句尾）|False
+announcement|n. 公告；通告|False
+annoying|adj. 使恼怒的；使生气的|False
+another|det. 又一；另一（事物或人）|False
+ant|n. 蚂蚁|False
+anybody|pron. 任何人|False
+anytime|adv. 在任何时候；随便什么时候|False
+anyway|adv. 无论如何|False
+anywhere|adv. 任何地方|False
+apologize|v. 道歉|False
+appear|v. 出现 v. 显得；看来；似乎|False
+appearance|n. 外貌；外表|False
+applause|n. 鼓掌；喝彩|False
+area|n. 地域；地区|False
+army|n. 陆军部队|False
+arrive at|到达|False
+article|文章|False
+artist|n. 艺术家|False
+artistic|adj. 有艺术天赋的|False
+as ... as|像……一样；如同|False
+as a result of|由于|False
+as soon as possible|尽快|False
+as well|除……之外；也|False
+as well as|也；还|False
+ashamed|adj. 惭愧、羞愧|False
+Asia|n. 亚洲|False
+Asian|adj. 亚洲的|False
+ask permission|报请批准|False
+asteroid|n. 小行星|False
+astronaut|n. 宇航员；航天员|False
+astronomer|n. 天文学家|False
+(not) at all|一点也(不);完全(不)|False
+at birth|出生时|False
+at first|起初；起先|False
+at last|终于；最终|False
+at the front|在前面|False
+at the same time|同时|False
+atmosphere|n. 大气层|False
+attract|v. 吸引；使喜爱|False
+audience|n. 观众；听众|False
+Australia|n. 澳大利亚|False
+avoid|v. 避免；避开|False
+awake|v. （使）醒来|False
+away|adv. 去别处；朝另一个方向|False
+awful|adj. 很坏的；极讨厌的|False
+(be) bad for|对……有害的|False
+badly|adv. 严重地；厉害地|False
+badminton|n. 羽毛球运动|False
+ballet|n. 芭蕾舞|False
+bamboo|n. 竹；竹子|False
+band|n. 乐队|False
+bank|n. 银行|False
+bark|v. (狗)吠叫|False
+baseball|n. 棒球运动|False
+basic|adj. 基本的；基础的|False
+basket|n. 篮；筐|False
+battery|n. 电池|False
+bean|n. 豆；豆荚|False
+beat|v. 赢；打败(某人)|False
+beauty|n. 美；美丽|False
+because of|因为|False
+bee|n. 蜜蜂|False
+beef|n. 牛肉|False
+behaviour|n. （动植物的）活动方式|False
+believe|v. 相信|False
+bell|n. 钟；铃|False
+besides|prep. 除……之外（还）|False
+bill|n. 账单|False
+birth|n. 出生；诞生|False
+bit|n. 有点；一点|False
+blind|adj. 瞎的；失明的|False
+blog|n. 博客|False
+blow|v. （blew,blown）吹|False
+board|n. 木板|False
+body language|身势语；肢体语言|False
+bored|adj. （对某人/某物）厌倦的；烦闷的|False
+boring|adj. 令人厌倦（或厌烦）的；乏味的|False
+born|v. （be born）出生|False
+boss|n. 老板|False
+bottom|n. 底部|False
+bowl|n. 碗；盆|False
+boxing|n. 拳击（运动）|False
+braces|n. （儿童）牙箍|False
+brain|n. 脑|False
+branch|n. 树枝|False
+brave|adj. 勇敢的；无畏的|False
+break|n. 休息|False
+breathe|v. 呼吸|False
+bridge|n. 桥|False
+bright|adj. 有希望的|False
+brightly|adv. 明亮的|False
+british|adj. 英国的|False
+bubble|n. 泡；气泡|False
+build up|建立|False
+building|n. 建筑|False
+bulb|n. 电灯泡|False
+burn|v. 燃烧|False
+bush|n. 灌木|False
+business|n. 商务；公事|False
+(be) busy with|忙于做……|False
+butterfly|n. 蝴蝶|False
+by heart|单凭记忆；能背诵|False
+by oneself|独自|False
